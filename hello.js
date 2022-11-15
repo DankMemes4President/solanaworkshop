@@ -4,6 +4,6 @@ console.log(
     cowsay.say({
         text: "Bruh",
         e: "oo",
-        Y: "U "
+        T: "U"
     })
 )
